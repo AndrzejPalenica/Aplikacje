@@ -1,1 +1,1 @@
-TU znajdują sie projekty z lekcji.
+Tu znajdują sie projekty z lekcji. 
